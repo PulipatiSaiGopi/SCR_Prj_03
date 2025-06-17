@@ -1,4 +1,4 @@
-# SCT_Prj_03
+# SCT_Prj_02
 SCT_DS_2-Task2
 
 Here is a complete summary of your Titanic dataset project based on the files you provided (train.csv, test.csv, and gender_submission.csv):
